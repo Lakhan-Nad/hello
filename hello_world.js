@@ -3,6 +3,4 @@ function main(){
     console.log(greeting);
 }
 
- 
-
 main();
